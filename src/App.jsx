@@ -1,6 +1,6 @@
 import React from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
-import Login from "./Components/login";
+import Login from "./Components/Login";
 import Signup from "./Components/signup";
 import Dashboard from "./Components/Dashboard";
 function App() {
